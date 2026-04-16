@@ -27,3 +27,10 @@ A full-stack web application where users can register, log in securely, access a
 cd backend
 npm install
 node server.js
+
+## Screenshots
+
+![Login](frontend/images/login.png)
+![Register](frontend/images/register.png)
+![Dashboard](frontend/images/dashboard.png)
+![Portfolio](frontend/Image/portfolio.png)
